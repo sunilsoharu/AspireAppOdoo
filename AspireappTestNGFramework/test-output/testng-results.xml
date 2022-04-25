@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="239853" started-at="2022-04-25T11:48:08 IST" finished-at="2022-04-25T11:52:08 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="239853" started-at="2022-04-25T11:48:08 IST" finished-at="2022-04-25T11:52:08 IST">
+      <class name="com.aspire.tests.ProblemTestCase">
+        <test-method status="PASS" signature="kickStartProject()[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="kickStartProject" is-config="true" duration-ms="13425" started-at="2022-04-25T11:48:08 IST" finished-at="2022-04-25T11:48:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- kickStartProject -->
+        <test-method status="PASS" signature="RunEndtoEndTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="RunEndtoEndTestCase" duration-ms="75760" started-at="2022-04-25T11:48:22 IST" data-provider="excelData" finished-at="2022-04-25T11:49:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AmazingFrenchFries]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[IndianHotDog]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunEndtoEndTestCase -->
+        <test-method status="PASS" signature="thishasToruntoresetwebSiteStatus()[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="thishasToruntoresetwebSiteStatus" is-config="true" duration-ms="1579" started-at="2022-04-25T11:49:37 IST" finished-at="2022-04-25T11:49:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thishasToruntoresetwebSiteStatus -->
+        <test-method status="PASS" signature="RunEndtoEndTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="RunEndtoEndTestCase" duration-ms="72422" started-at="2022-04-25T11:49:39 IST" data-provider="excelData" finished-at="2022-04-25T11:50:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KFCStrawberryCrusher]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AmazingFrenchFries]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunEndtoEndTestCase -->
+        <test-method status="PASS" signature="thishasToruntoresetwebSiteStatus()[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="thishasToruntoresetwebSiteStatus" is-config="true" duration-ms="1578" started-at="2022-04-25T11:50:51 IST" finished-at="2022-04-25T11:50:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thishasToruntoresetwebSiteStatus -->
+        <test-method status="PASS" signature="RunEndtoEndTestCase(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="RunEndtoEndTestCase" duration-ms="72480" started-at="2022-04-25T11:50:53 IST" data-provider="excelData" finished-at="2022-04-25T11:52:05 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KFCAmazingVegBurger]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[KFCStrawberryCrusher]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunEndtoEndTestCase -->
+        <test-method status="PASS" signature="thishasToruntoresetwebSiteStatus()[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="thishasToruntoresetwebSiteStatus" is-config="true" duration-ms="1590" started-at="2022-04-25T11:52:05 IST" finished-at="2022-04-25T11:52:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thishasToruntoresetwebSiteStatus -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.aspire.tests.ProblemTestCase@544a2ea6]" name="tearDown" is-config="true" duration-ms="633" started-at="2022-04-25T11:52:07 IST" finished-at="2022-04-25T11:52:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.aspire.tests.ProblemTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

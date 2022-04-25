@@ -1,0 +1,15 @@
+com\aspire\Pages\AspireAppInventoryPage.class
+com\aspire\baseframework\BrowserType.class
+com\aspire\baseframework\NoCorrectDriverFoundException.class
+com\aspire\Pages\AspireAppLoginPage.class
+com\aspire\baseframework\FireFoxBrow.class
+com\aspire\Pages\AspireAppHomePage.class
+com\aspire\WebPageUtilities\PageWaitUtil.class
+com\aspire\WebPageUtilities\PageElementUtil.class
+com\aspire\SystemUtilities\PropertyReader.class
+com\aspire\WebPageUtilities\PageWaitUtil$1.class
+com\aspire\baseframework\SafariBrow.class
+com\aspire\baseframework\ChromeBrow.class
+com\aspire\baseframework\FrameworkInitialize.class
+com\aspire\SystemUtilities\LogsUtil.class
+com\aspire\Pages\AspireAppManufacturingPage.class
